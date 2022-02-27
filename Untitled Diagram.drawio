@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T19:40:38.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4D0pFkvNFa_pjZr4520p" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-27T19:41:18.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="E1TuKEJM4FQBXNF8FcGH" version="16.6.4" type="github" pages="2">
   <diagram id="FB9iFtsFnaGhDjcncWZO" name="Page-1">
     <mxGraphModel dx="1955" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="bs0ySqvihV7twK_2BFhr-9" value="1,12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bs0ySqvihV7twK_2BFhr-10" value="Balkon 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
